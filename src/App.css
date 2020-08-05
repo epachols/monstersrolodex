@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Arbutus';
+  font-size: 70px;
+  color: rgb(0, 132, 184);
+}
